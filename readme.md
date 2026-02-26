@@ -39,9 +39,6 @@
   3. Ejecutar Servidor **"node index.js"**
   4. Abrir el navegador **"http://localhost:3000"**
 
-# Ver Proyecto
-  Vista del Front-End [Link al proyecto](https://alvarezf7.github.io/M6-3-servidor-web-node-api/).
-
 # Notas
 - Se utilizan códigos HTTP adecuados: 200, 201, 400, 405 y 500.
 - La lectura del archivo se realiza de manera no bloqueante.
