@@ -40,8 +40,9 @@
   4. Abrir el navegador **"http://localhost:3000"**
 
 # Ver Proyecto
+  [Link al proyecto](https://alvarezf7.github.io/M6-3-servidor-web-node-api/).
 
- # Notas
+# Notas
 - Se utilizan códigos HTTP adecuados: 200, 201, 400, 405 y 500.
 - La lectura del archivo se realiza de manera no bloqueante.
 - Se implementa separación entre frontend y backend.
