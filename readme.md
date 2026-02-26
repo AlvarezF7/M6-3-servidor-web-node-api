@@ -40,7 +40,7 @@
   4. Abrir el navegador **"http://localhost:3000"**
 
 # Ver Proyecto
-  [Link al proyecto](https://alvarezf7.github.io/M6-3-servidor-web-node-api/).
+  Vista del Front-End [Link al proyecto](https://alvarezf7.github.io/M6-3-servidor-web-node-api/).
 
 # Notas
 - Se utilizan códigos HTTP adecuados: 200, 201, 400, 405 y 500.
