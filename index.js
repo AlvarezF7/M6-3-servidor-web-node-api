@@ -24,7 +24,7 @@ app.get('/productos', async (req, res) => {
   try {
     const data = await fs.readFile(FILE_PATH, 'utf8');
 
-    const productos = data
+    const productos = data 
       .split('\n')
       .filter(line => line.trim() !== '')
       .map(line => {
